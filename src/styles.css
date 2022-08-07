@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    margin: auto;
+    width: 50%;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 70px auto;
+    text-align: left;
+}
+
+small {
+    color: grey;
+}
+strong {
+    color: black;
+}
